@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: home
 title: This is my first post
 cover-img: /assets/img/path.jpg
 tags: [books, test]
