@@ -1,6 +1,6 @@
 ---
 layout: minmal
-title: Flake it till you make it
+title: you make it
 cover-img: /assets/img/path.jpg
 tags: [books, test]
 ---

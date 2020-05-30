@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Flake it till you make it
+title: post it till you make it
 cover-img: /assets/img/path.jpg
 tags: [books, test]
 ---

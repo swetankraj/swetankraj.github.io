@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Flake it till you make it
+title: page it
 cover-img: /assets/img/path.jpg
 tags: [books, test]
 ---

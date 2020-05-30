@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Flake it till you make it
+title: go home
 cover-img: /assets/img/path.jpg
 tags: [books, test]
 ---
