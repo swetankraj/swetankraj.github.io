@@ -12,8 +12,8 @@ author: Swetank Raj
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Medium: "https://medium.com/@swetank"
-  About Me: "about"
+  ✍ Medium: "https://medium.com/@swetank"
+  👨‍💻 About Me: "about"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
