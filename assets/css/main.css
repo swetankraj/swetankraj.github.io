@@ -517,7 +517,7 @@ footer .footer-custom-content {
 }
 
 .blog-tags a {
-  color: {{ site.link-col | default: "#000" }};
+  color: {{ site.link-col | default: "#000" !important }};
   text-decoration: none;
   padding: 0 0.3125rem;
   background-color: #ecdb54;
@@ -525,7 +525,7 @@ footer .footer-custom-content {
 
 .blog-tags a:hover {
   border-radius: 2px;
-  color: {{ site.hover-col | default: "#000" }};
+  color: {{ site.hover-col | default: "#000" !important}};
   background-color: #ecdb54;
 }
 
