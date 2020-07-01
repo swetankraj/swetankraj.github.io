@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Useful Vim Commands
+title: Useful Vim Commands ![](https://www.vim.org/images/vim_on_fire.gif)
 tags: [vim, linux]
 comments: true
 ---
