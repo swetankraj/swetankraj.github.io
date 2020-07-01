@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Useful Vim Commands ![](https://www.vim.org/images/vim_on_fire.gif)
+title: Useful Vim Commands 
 tags: [vim, linux]
 comments: true
 ---
 
-The following list contains some of the useful and my favorites vim commands I've come across. The list is in no particular order and I'll update it as I come across awesome ones. 
+The following list contains some of the useful and my favorites vim commands ![Crepe](https://www.vim.org/images/vim_on_fire.gif) I've come across. The list is in no particular order and I'll update it as I come across awesome ones. 
 
 ## 1. Search and Replace
 
