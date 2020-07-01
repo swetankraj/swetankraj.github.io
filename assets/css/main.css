@@ -12,7 +12,7 @@ html {
 
 body {
   font-family: 'Lora', 'Times New Roman', serif;
-  font-size: 21px;
+  font-size: 19px;
   color: #292929;
   position: relative;
   background-color: {{ site.page-col | default: "#FFFFFF" }};
