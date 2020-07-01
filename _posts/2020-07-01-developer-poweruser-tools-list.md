@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Swetank's Developer and Power Users Tools List 
+title: 💪 Swetank's Developer and Power User Tools List 
 tags: [tools]
 comments: true
 ---
