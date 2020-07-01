@@ -450,11 +450,11 @@ footer .footer-custom-content {
   color: #404040;
 }
 
-.post-preview a:focus,
+/*.post-preview a:focus,
 .post-preview a:hover {
   text-decoration: none;
   color: {{ site.hover-col | default: "#0085A1" }};
-}
+}*/
 
 .post-preview .post-title {
   font-size: 1.875rem;
