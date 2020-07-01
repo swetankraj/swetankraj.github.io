@@ -45,6 +45,11 @@ h4 {
 a {
   color: {{ site.link-col | default: "#008AFF" }};
 }
+
+ul {
+  line-height: 1.8;
+}
+
 a:hover,
 a:focus {
   color: {{ site.hover-col | default: "#0085A1" }};
