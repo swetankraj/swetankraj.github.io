@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Useful Vim Commands 
+title: Useful Vima Commands 
 tags: [vim, linux]
 comments: true
 ---
