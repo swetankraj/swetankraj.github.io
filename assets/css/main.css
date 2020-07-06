@@ -474,9 +474,10 @@ footer .footer-custom-content {
 .post-preview .post-meta,
 .post-heading .post-meta {
   color: #808080;
-  font-size: 1.125rem;
-  font-style: italic;
+  font-size: 1.025rem;
+  /*font-style: italic;*/
   margin: 0 0 0.625rem;
+  text-transform: uppercases;
 }
 .post-preview .post-entry {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -725,7 +726,12 @@ footer .footer-custom-content {
   }
 }
 .reader-time .middot { 
-  margin: 0 0.625rem;
+  /*margin: 0 0.625rem;*/
+  display: inline-block;
+  margin: 0 6px 1px;
+  color: #49505773;
+  font-weight: 800;
+}
 }
 
 /* --- Pagination --- */
