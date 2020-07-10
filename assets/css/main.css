@@ -46,6 +46,21 @@ a {
   color: {{ site.link-col | default: "#008AFF" }};
 }
 
+.blog-post a {
+  text-decoration: none;
+  color: inherit;
+  position: relative;
+  z-index: 0;
+  background: linear-gradient(to top, transparent 0%, rgba(5, 150, 253, 0.6) 0%, rgba(5, 150, 253, 0.6) 100%, transparent 100%) no-repeat left 0 bottom 0;
+  background-size: 100% 3px;
+  transition: background .2s ease-in-out,color .2s ease-in-out;
+}
+
+.blog-post a:hover {
+  background-size: 100% calc(1em + 6px);
+  transition: background .2s ease-in-out,color .2s ease-in-out;
+}
+
 ul {
   line-height: 1.8;
 }
