@@ -4,7 +4,7 @@
 title: Swetank Raj
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: A virtual proof that I'm awesome!
 
 # Your name to show in the footer
 author: Swetank Raj
@@ -80,7 +80,7 @@ excerpt_length: 10
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
+navbar-col: "#FFFFFF" #default "#F5F5F5"
 navbar-text-col: "#292929"
 navbar-border-col: "#EAEAEA"
 page-col: "#FFFFFF"
