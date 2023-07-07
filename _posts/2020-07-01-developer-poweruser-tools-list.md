@@ -1,18 +1,25 @@
 ---
 layout: post
-title: 💪 Swetank's Developer and Power User Tools List 
+title: 💪 Swetank's Developer and Power User Tools List
 tags: [tools]
 comments: true
 ---
 
 {: .box-note}
-**Last Updated:** On 1 July, 2020. Welcome to the list!
+**Last Updated:** On 7 July, 2023. Welcome to the list! Since now I am using MS Edge, OneTab and The Great Suspender features are already available in MS Edge. Switched from LastPass to Bitwarden. Added Wappalyzer.
 
-List of tools that I use and can't live without. I'll update the list as I come across something new and tested it for at least 1 week. 
+List of tools that I use and can't live without. I'll update the list as I come across something new and tested it for at least 1 week.
 
-## Chrome Extensions
+## Edge Extensions
 
-I use Chrome, say I stumbled upon an awesome plugin a few months ago but didn't bookmarked or save elsewhere. I just use my Google activity narrowing via date/time/month and voila its there. 
+I use MS Edge, here is the list of extensions that I use currently and used earlier.
+
+1. [**Bitwarden**](https://microsoftedge.microsoft.com/addons/detail/bitwarden-free-password/jbkfoedolllekgbhcbcoahefnbanhhlh) - Free open source password manager, after lastpass stopped their multi-logging feature for free user, Bitwarden was the best free option I discovered so far.
+
+2. [**Wappalyzer**](https://microsoftedge.microsoft.com/addons/detail/wappalyzer-technology-p/mnbndgmknlpdjdnjfmfcdjoegcckoikn) - Quick way to find out the technology stack of any website.
+
+{: .box-error}
+**Not in Use:** Below extensions are not used by me anymore.
 
 1. [**LastPass**](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd) - It's amazing, there are times I just want to generate a super-strong password and get rid of the headache of jotting it down to a paper. Its free, 2-factor authentication, and available for android.
 
